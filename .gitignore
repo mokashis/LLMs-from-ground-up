@@ -1,0 +1,36 @@
+# IDE and editor files
+.idea/
+.vscode/
+.vscode-server/
+.cursor-server/
+.windsurf-server/
+
+# Claude internal files
+.claude/
+.claude.json.backup
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine learning
+.keras/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lightning Studio
+.lightning_studio/

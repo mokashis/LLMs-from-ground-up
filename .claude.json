@@ -1,0 +1,37 @@
+{
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "cachedStatsigGates": {
+    "tengu_migrate_ignore_patterns": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false
+  },
+  "firstStartTime": "2025-11-01T04:56:41.557Z",
+  "userID": "8e3ccafd7c69588e3012e22a253083af42b821c3bec6340ff36b222c644a0940",
+  "sonnet45MigrationComplete": true,
+  "fallbackAvailableWarningThreshold": 0.5,
+  "projects": {
+    "/teamspace/studios/this_studio": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "ignorePatterns": [],
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "I don't have any file data to analyze. The lists of files modified by the user and other users are both empty. ",
+        "",
+        "To provide five filenames representing core application logic, I would need:",
+        "- A list of files with their modification counts from the user",
+        "- A list of files with their modification counts from other users",
+        "",
+        "Please provide the git history data and I'll return the five most relevant filenames."
+      ],
+      "exampleFilesGeneratedAt": 1761974971615
+    }
+  }
+}
